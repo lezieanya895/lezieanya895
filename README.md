@@ -49,13 +49,6 @@ Led a funded research project on accessibility and inclusive design in CS learni
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lezieanya895&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lezieanya895&layout=compact&hide_border=true&theme=default" />
-</p>
-
 ---
 
 <p align="center"><em>Always happy to connect — reach out on LinkedIn or email!</em></p>
